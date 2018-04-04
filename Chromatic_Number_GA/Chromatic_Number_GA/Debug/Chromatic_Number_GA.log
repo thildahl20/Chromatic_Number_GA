@@ -1,0 +1,7 @@
+﻿  main.cpp
+\\cs1\2020\thildahl20\cs-457-1\chromatic_number_ga\chromatic_number_ga\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\cs1\2020\thildahl20\cs-457-1\chromatic_number_ga\chromatic_number_ga\main.cpp(113): warning C4018: '<': signed/unsigned mismatch
+\\cs1\2020\thildahl20\cs-457-1\chromatic_number_ga\chromatic_number_ga\main.cpp(155): warning C4305: 'initializing': truncation from '__int64' to 'int'
+\\cs1\2020\thildahl20\cs-457-1\chromatic_number_ga\chromatic_number_ga\main.cpp(155): warning C4309: 'initializing': truncation of constant value
+  Chromatic_Number_GA.vcxproj -> \\cs1\2020\thildahl20\CS-457-1\Chromatic_Number_GA\Debug\Chromatic_Number_GA.exe
+  Chromatic_Number_GA.vcxproj -> \\cs1\2020\thildahl20\CS-457-1\Chromatic_Number_GA\Debug\Chromatic_Number_GA.pdb (Partial PDB)
